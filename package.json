@@ -1,0 +1,33 @@
+{
+  "name": "codezium-dark",
+  "displayName": "codezium-dark",
+  "description": "Theme dark visual studio code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codezium dark two",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codezium dark two-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/codezium.png",
+  "license": "MIT",
+  "author": {
+    "name": "Maicol Andres Tascon",
+    "email": "maicol_tascon@hotmail.com",
+    "url": "https://codezium.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maicoltascon/CodeziumdarkTwo.git"
+  },
+  "publisher": "CodeziumTheme"
+}
